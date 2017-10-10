@@ -1,0 +1,14 @@
+{
+  "name": "stem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "micro": "latest"
+  }
+}
